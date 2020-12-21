@@ -15,7 +15,3 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iml1111&layout=compact&theme=material-palenight" />
 </a>
 <br>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iml1111&repo=iml1111.github.io&theme=material-palenight" />
-</a>
