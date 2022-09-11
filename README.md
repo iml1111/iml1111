@@ -1,7 +1,7 @@
 
 <div align=center>
 
-# Hi there, I'M [IML!](https://iml1111.github.io) 👋
+# Hi, I'M IML! 👋
 
 🗂 **Resume : https://iml1111.notion.site/**
 
