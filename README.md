@@ -3,7 +3,7 @@
 
 # Hi there, I'M [IML!](https://iml1111.github.io) 👋
 
-🗂 **Portfolio : https://iml1111.github.io/**
+🗂 **Portfolio : https://iml1111.notion.site/**
 
 📚 **Blog : https://blog.naver.com/shino1025**
 
