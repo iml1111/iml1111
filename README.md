@@ -3,7 +3,7 @@
 
 # Hi, I'M IML! 👋
 
-🗂 **Resume : https://iml1111.notion.site/**
+🗂 **About Me : https://iml1111.notion.site/**
 
 📚 **Blog : https://blog.naver.com/shino1025**
 
